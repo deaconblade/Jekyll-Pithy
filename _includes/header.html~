@@ -15,12 +15,12 @@
 			{% if page.path == "archive.html" %}
 			<span class="title">
 				<li>
-					<a href="/archive.html">archiv</a>
+					<a href="/archive.html">archive</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/archive.html">archiv</a>
+					<a href="/archive.html">archive</a>
 				</li>			
 			{% endif %}
 			{% if page.path == "category.html" %}
@@ -37,12 +37,12 @@
 			{% if page.path == "about.html" %}
 			<span class="title">
 				<li>
-					<a href="/about">about</a>
+					<a href="/about.html">about</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/about">about</a>
+					<a href="/about.html">about</a>
 				</li>			
 			{% endif %}
 			{% if page.path == "impressum.html" %}
